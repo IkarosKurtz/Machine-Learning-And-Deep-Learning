@@ -6,8 +6,8 @@
 ![Python][python]
 ![UV][uv]
 
-[![commits][commits]](https://github.com/IkarosKurtz/Machine-Learning-Deep-Learning/commits)
-[![repo-size][repo-size]](https://github.com/IkarosKurtz/Machine-Learning-Deep-Learning)
+[![commits][commits]](https://github.com/IkarosKurtz/Machine-Learning-And-Deep-Learning/commits)
+[![repo-size][repo-size]](https://github.com/IkarosKurtz/Machine-Learning-And-Deep-Learning)
 
 
 # 🚀 Machine Learning and Deep Learning 
@@ -36,8 +36,8 @@ This repository contains all the code for homework, projects, and activities rel
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
-[commits]: https://img.shields.io/github/commit-activity/t/IkarosKurtz/Machine-Learning-Deep-Learning?style=for-the-badge&color=#126251
-[repo-size]: https://img.shields.io/github/repo-size/IkarosKurtz/Machine-Learning-Deep-Learning?style=for-the-badge&color=#126251
+[commits]: https://img.shields.io/github/commit-activity/t/IkarosKurtz/Machine-Learning-And-Deep-Learning?style=for-the-badge&color=#126251
+[repo-size]: https://img.shields.io/github/repo-size/IkarosKurtz/Machine-Learning-And-Deep-Learning?style=for-the-badge&color=#126251
 [python]: https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white
 [uv]: https://img.shields.io/badge/uv-%23aa4ab6?style=for-the-badge
 [uaa]: https://img.shields.io/badge/UAA-Universidad%20Aut%C3%B3noma%20de%20Aguascalientes-blue?style=for-the-badge
