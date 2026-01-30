@@ -1,0 +1,7 @@
+[project]
+name = "machine-learning-deep-learning"
+version = "0.1.0"
+description = "Repository for Machine Learning and Deep Learning course"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
