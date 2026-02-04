@@ -10,7 +10,10 @@
 [![repo-size][repo-size]](https://github.com/IkarosKurtz/Machine-Learning-And-Deep-Learning)
 
 
-# 🚀 Machine Learning and Deep Learning 
+# 🚀 Machine Learning and Deep Learning
+
+> [!NOTE]
+> [Version en Español](./README.es.md)
 
 <p align="left">
 This repository contains all the code for homework, projects, and activities related to the MLDL course at <strong>Universidad Autónoma de Aguascalientes</strong>. Each project will be organized in its own folder and will include a README.md file explaining its purpose. <strong>All comments in the code will be in Spanish, as required by the course and for my professor's review, as well as to facilitate collaboration with my teammates.</strong>

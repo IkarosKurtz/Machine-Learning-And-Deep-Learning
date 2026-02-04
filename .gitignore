@@ -2,4 +2,4 @@
 __pycache__/
 
 *.md
-!README.md
+!README*.md
