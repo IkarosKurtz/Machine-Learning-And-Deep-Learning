@@ -40,6 +40,7 @@ This repository contains all the code for homework, projects, and activities rel
 3. [MDL_McCulloch_Pitts (NOT LOGICO)](./activities/MDL_McCulloch_Pitts%20(NOT%20LOGICO)%20Practica3.ipynb) - Implementation of a McCulloch-Pitts neuron to simulate the NOT logical gate.
 4. [MDL_Perceptron (Frank Rosenblatt)](./activities/MDL_Perceptron%20(Frank%20Rosenblatt)%20practica4.ipynb) - Implementation of Frank Rosenblatt's Perceptron algorithm.
 5. [MDL_Perceptron (Flor de Iris)](./activities/MDL_Perceptron%20(Flor%20de%20Iris)%20practica5.ipynb) - Perceptron implementation for Iris flower classification.
+6. [MDL_MLPClassifier_para_clasificar_Iris practica6.ipynb](./activities/MDL_MLPClassifier_para_clasificar_Iris%20practica6.ipynb) - MLPClassifier implementation to classify Iris flowers.
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
