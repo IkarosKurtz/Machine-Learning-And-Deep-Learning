@@ -33,6 +33,10 @@ Este repositorio contiene todo el código para tareas, proyectos y actividades r
 ## 📚 Actividades 
 
 1. [MDL_McCulloch_Pitts (OR LOGICO)](./activities/MDL_McCulloch_Pitts%20(OR%20LOGICO)%20Practica1.ipynb) - Implementación de una neurona de McCulloch-Pitts para simular la compuerta lógica OR.
+2. [MDL_McCulloch_Pitts (AND LOGICO)](./activities/MDL_McCulloch_Pitts%20(AND%20LOGICO)%20Practica2.ipynb) - Implementación de una neurona de McCulloch-Pitts para simular la compuerta lógica AND.
+3. [MDL_McCulloch_Pitts (NOT LOGICO)](./activities/MDL_McCulloch_Pitts%20(NOT%20LOGICO)%20Practica3.ipynb) - Implementación de una neurona de McCulloch-Pitts para simular la compuerta lógica NOT.
+4. [MDL_Perceptron (Frank Rosenblatt)](./activities/MDL_Perceptron%20(Frank%20Rosenblatt)%20practica4.ipynb) - Implementación del algoritmo Perceptrón de Frank Rosenblatt.
+5. [MDL_Perceptron (Flor de Iris)](./activities/MDL_Perceptron%20(Flor%20de%20Iris)%20practica5.ipynb) - Implementación del Perceptrón para clasificación de flores Iris.
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
