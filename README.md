@@ -42,6 +42,8 @@ This repository contains all the code for homework, projects, and activities rel
 5. [MDL_Perceptron (Flor de Iris)](./activities/MDL_Perceptron%20(Flor%20de%20Iris)%20practica5.ipynb) - Perceptron implementation for Iris flower classification.
 6. [MDL_MLPClassifier_para_clasificar_Iris](./activities/MDL_MLPClassifier_para_clasificar_Iris%20practica6.ipynb) - MLPClassifier implementation to classify Iris flowers.
 7. [MDL_Análisis de sentimiento](./activities/MDL_Análisis%20de%20sentimiento%20practica7.ipynb) - Sentiment analysis using Word2Vec and MLPClassifier on a movie reviews dataset.
+8. [MDL_MLPClassifier (Formas de Evaluación)](./activities/MDL_MLPClassifier%20(Formas%20de%20Evaluación)%20practica8.ipynb) - Neural networks (Scikit-learn MLPClassifier): evaluation methods comparison (Tabla-Testing, Tabla-Completa, LOOCV and K-Folds).
+9. [MDL_MLPClassifier (Formas de Evaluación) Criticas de Cine](./activities/MDL_MLPClassifier%20(Formas%20de%20Evaluación)%20Criticas%20de%20Cine%20practica9.ipynb) - Application of MLPClassifier and evaluation on movie reviews dataset.
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 

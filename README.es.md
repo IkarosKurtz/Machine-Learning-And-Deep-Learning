@@ -19,7 +19,7 @@ Este repositorio contiene todo el código para tareas, proyectos y actividades r
 </div>
 
 <details>
-	<summary>Tabla de Contenidos</summary>
+    <summary>Tabla de Contenidos</summary>
 
 - [🚀 Aprendizaje Automático y Aprendizaje Profundo](#-aprendizaje-automático-y-aprendizaje-profundo)
   - [📂 Proyectos](#-proyectos)
@@ -39,6 +39,8 @@ Este repositorio contiene todo el código para tareas, proyectos y actividades r
 5. [MDL_Perceptron (Flor de Iris)](./activities/MDL_Perceptron%20(Flor%20de%20Iris)%20practica5.ipynb) - Implementación del Perceptrón para clasificación de flores Iris.
 6. [MDL_MLPClassifier_para_clasificar_Iris](./activities/MDL_MLPClassifier_para_clasificar_Iris%20practica6.ipynb) - Implementación de MLPClassifier para clasificar flores Iris.
 7. [MDL_Análisis de sentimiento](./activities/MDL_Análisis%20de%20sentimiento%20practica7.ipynb) - Análisis de sentimiento con Word2Vec y MLPClassifier usando dataset de críticas de cine.
+8. [MDL_MLPClassifier (Formas de Evaluación)](./activities/MDL_MLPClassifier%20(Formas%20de%20Evaluación)%20practica8.ipynb) - Redes neuronales (Scikit-learn MLPClassifier): análisis de formas de evaluación (Tabla-Testing, Tabla-Completa, LOOCV y K-Folds).
+9. [MDL_MLPClassifier (Formas de Evaluación) Criticas de Cine](./activities/MDL_MLPClassifier%20(Formas%20de%20Evaluación)%20Criticas%20de%20Cine%20practica9.ipynb) - Aplicación de MLPClassifier y evaluación en dataset de críticas de cine.
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
