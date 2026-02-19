@@ -46,6 +46,7 @@ This repository contains all the code for homework, projects, and activities rel
 9. [MDL_MLPClassifier (Formas de Evaluación) Criticas de Cine](./activities/MDL_MLPClassifier%20(Formas%20de%20Evaluación)%20Criticas%20de%20Cine%20practica9.ipynb) - Application of MLPClassifier and evaluation on movie reviews dataset.
 10. [MDL_Métodos de Clasificación y Matriz de Confusión](./activities/MDL_Métodos%20de%20Clasificación%20y%20Matriz%20de%20Confusión%20practica10.ipynb) - Comparison of KNN, SVM and Naive Bayes with comprehensive confusion matrix metrics analysis.
 11. [MDL_Curca ROC practica 11](./activities/MDL_Curca%20ROC%20practica%2011.ipynb) - Implementation of ROC Curve and AUC-ROC calculation using a synthetic dataset (academic example).
+13. [MDL_Aprendizaje No-Supervisado practica13](./activities/MDL_Aprendizaje%20No-Supervisado%20practica13.ipynb) - Principal Component Analysis (PCA) applied to student grades with 5 principal components.
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
