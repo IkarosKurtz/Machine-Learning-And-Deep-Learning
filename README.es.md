@@ -41,6 +41,7 @@ Este repositorio contiene todo el código para tareas, proyectos y actividades r
 7. [MDL_Análisis de sentimiento](./activities/MDL_Análisis%20de%20sentimiento%20practica7.ipynb) - Análisis de sentimiento con Word2Vec y MLPClassifier usando dataset de críticas de cine.
 8. [MDL_MLPClassifier (Formas de Evaluación)](./activities/MDL_MLPClassifier%20(Formas%20de%20Evaluación)%20practica8.ipynb) - Redes neuronales (Scikit-learn MLPClassifier): análisis de formas de evaluación (Tabla-Testing, Tabla-Completa, LOOCV y K-Folds).
 9. [MDL_MLPClassifier (Formas de Evaluación) Criticas de Cine](./activities/MDL_MLPClassifier%20(Formas%20de%20Evaluación)%20Criticas%20de%20Cine%20practica9.ipynb) - Aplicación de MLPClassifier y evaluación en dataset de críticas de cine.
+10. [MDL_Métodos de Clasificación y Matriz de Confusión](./activities/MDL_Métodos%20de%20Clasificación%20y%20Matriz%20de%20Confusión%20practica10.ipynb) - Comparación de KNN, SVM y Naive Bayes con análisis exhaustivo de métricas de matriz de confusión.
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
