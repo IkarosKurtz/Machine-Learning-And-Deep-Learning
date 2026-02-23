@@ -27,6 +27,7 @@ This repository contains all the code for homework, projects, and activities rel
 - [🚀 Machine Learning and Deep Learning](#-machine-learning-and-deep-learning)
   - [📂 Projects](#-projects)
   - [📚 Practices](#-practices)
+  - [📝 Exams](#-exams)
 
 </details>
 
@@ -47,6 +48,10 @@ This repository contains all the code for homework, projects, and activities rel
 10. [MDL_Métodos de Clasificación y Matriz de Confusión](./activities/MDL_Métodos%20de%20Clasificación%20y%20Matriz%20de%20Confusión%20practica10.ipynb) - Comparison of KNN, SVM and Naive Bayes with comprehensive confusion matrix metrics analysis.
 11. [MDL_Curca ROC practica 11](./activities/MDL_Curca%20ROC%20practica%2011.ipynb) - Implementation of ROC Curve and AUC-ROC calculation using a synthetic dataset (academic example).
 13. [MDL_Aprendizaje No-Supervisado practica13](./activities/MDL_Aprendizaje%20No-Supervisado%20practica13.ipynb) - Principal Component Analysis (PCA) applied to student grades with 5 principal components.
+
+## 📝 Exams
+
+- [Examen Parcial 1: algoritmos Q-Learning, DQN y SARSA](./exams/MDL_Parcial%201.ipynb) - Implementation and comparative analysis of three reinforcement learning algorithms (Q-Learning, DQN, SARSA) on the Taxi-v3 environment from Gymnasium. Includes training curves, convergence analysis, and a final comparative report.
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 

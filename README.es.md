@@ -24,13 +24,14 @@ Este repositorio contiene todo el código para tareas, proyectos y actividades r
 - [🚀 Aprendizaje Automático y Aprendizaje Profundo](#-aprendizaje-automático-y-aprendizaje-profundo)
   - [📂 Proyectos](#-proyectos)
   - [📚 Practicas](#-practicas)
+  - [📝 Exámenes](#-exámenes)
 
 </details>
 
 
 ## 📂 Proyectos 
 
-## 📚 Practicas 
+## 📚 Practicas
 
 1. [MDL_McCulloch_Pitts (OR LOGICO)](./activities/MDL_McCulloch_Pitts%20(OR%20LOGICO)%20Practica1.ipynb) - Implementación de una neurona de McCulloch-Pitts para simular la compuerta lógica OR.
 2. [MDL_McCulloch_Pitts (AND LOGICO)](./activities/MDL_McCulloch_Pitts%20(AND%20LOGICO)%20Practica2.ipynb) - Implementación de una neurona de McCulloch-Pitts para simular la compuerta lógica AND.
@@ -44,6 +45,10 @@ Este repositorio contiene todo el código para tareas, proyectos y actividades r
 10. [MDL_Métodos de Clasificación y Matriz de Confusión](./activities/MDL_Métodos%20de%20Clasificación%20y%20Matriz%20de%20Confusión%20practica10.ipynb) - Comparación de KNN, SVM y Naive Bayes con análisis exhaustivo de métricas de matriz de confusión.
 11. [MDL_Curca ROC practica 11](./activities/MDL_Curca%20ROC%20practica%2011.ipynb) - Implementación de la Curva ROC y cálculo del AUC-ROC usando un dataset sintético (ejemplo académico).
 13. [MDL_Aprendizaje No-Supervisado practica13](./activities/MDL_Aprendizaje%20No-Supervisado%20practica13.ipynb) - Análisis de Componentes Principales (PCA) aplicado a notas escolares con 5 componentes principales.
+
+## 📝 Exámenes
+
+- [Examen Parcial 1: algoritmos Q-Learning, DQN y SARSA](./exams/MDL_Parcial%201.ipynb) - Implementación y análisis comparativo de tres algoritmos de aprendizaje por refuerzo (Q-Learning, DQN y SARSA) en el entorno Taxi-v3 de Gymnasium. Incluye curvas de entrenamiento, análisis de convergencia y un reporte comparativo final.
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
